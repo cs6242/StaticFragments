@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StaticFragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="directions">Enter 2 numbers</string>
+    <string name="multiply_button_text">Multiply</string>
+    <string name="add_button_text">Add</string>
+    <string name="product_text">0</string>
+</resources>
